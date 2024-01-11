@@ -128,7 +128,7 @@ public final class LinkedList extends BaseDataStructure {
         private int value;
 
         private Item next;
-        {}
+
 
         private Item(int value) {
             this.value = value;
